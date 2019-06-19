@@ -14,9 +14,9 @@ clear
 python2 aw.py
 echo $i"_________________________________________________________________________________"
 echo $i"|"$me"1."$i"|"$pur"SPAM LITE (ALL SPAM WA)  "$i"|"$ku"S"$i"|"$i"                                                |"
-echo $i"|"$me"2."$i"|"$pur"SPAM WA BUKALAPAK        "$i"|"$ku"P"$i"|"$pur"          T H A N K S  T O  R 1 3 3 F           "$i"|"
-echo $i"|"$me"3."$i"|"$pur"SPAM CALL LIMIT 3        "$i"|"$ku"A"$i"|"$pur"          Team : NEWBIE TO MASTAH               "$i"|"
-echo $i"|"$me"4."$i"|"$pur"SPAM CALL LIMIT 5        "$i"|"$ku"M"$i"|"$pu"          YOUTUBE : Bloody System1              "$i"|"
+echo $i"|"$me"2."$i"|"$pur"SPAM WA BUKALAPAK        "$i"|"$ku"P"$i"|"$pur"          T H A N K S  T O  MR-XDODOL            "$i"|"
+echo $i"|"$me"3."$i"|"$pur"SPAM CALL LIMIT 3        "$i"|"$ku"A"$i"|"$pur"          Team : ANONYMOUSE TANAH AIR               "$i"|"
+echo $i"|"$me"4."$i"|"$pur"SPAM CALL LIMIT 5        "$i"|"$ku"M"$i"|"$pu"          YOUTUBE :  Mr-xDODOL                   "$i"|"
 echo $i"|"$me"5."$i"|"$pur"INSTALL BAHAN            "$i"|"$ku"E"$i"|"$pu"          THANKS ATAS SUPPORT KALIAN            "$i"|"
 echo $i"|"$me"0."$i"|"$pur"EXIT PROGRAM             "$i"|"$ku"R"$i"|"$i"                                                |"
 echo "\033[31;1m[\033[36;1mSpammer TOOLS\033[31;1m]\033[35;1m-\033[33;1m{\033[36;1mBy R13F\033[33;1m}\033[35;1m-\033[31;1m[\033[36;1mSilahkan PILIH\033[31;1m]"$pur
